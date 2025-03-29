@@ -35,7 +35,7 @@ This is an **animated and interactive** fitness tracker UI built using **React, 
 ---
 
 ## ⚙️ Tech Stack  
-- **Frontend:** React.js, Tailwind CSS, Framer Motion  
+- **Frontend:** Next.js, Tailwind CSS, Framer Motion , typescript   
 - **Animations:** GSAP, Recharts.js  
 - **Future Integration:** TensorFlow.js (Pose Estimation), Firebase (Social Leaderboard), Web3 (NFT Rewards)  
 
